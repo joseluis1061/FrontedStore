@@ -1,0 +1,26 @@
+{
+  "name": "frontedstore",
+  "version": "1.0.0",
+  "description": "Web Store venta de camisetas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluis1061/FrontedStore.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "Webpack",
+    "npm"
+  ],
+  "author": "JOSE LUIS ZUÑIGA <joseluis836@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseluis1061/FrontedStore/issues"
+  },
+  "homepage": "https://github.com/joseluis1061/FrontedStore#readme"
+}
